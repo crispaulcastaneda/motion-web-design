@@ -10,6 +10,7 @@
   <meta name="keywords" content="web design, motion web design, website, front-end, interactive">
   <title>Motion Web Design | Main</title>
 
+  <link href="https://unpkg.com/ionicons@4.5.10-0/dist/css/ionicons.min.css" rel="stylesheet">
   <link rel="stylesheet" href="./assets/css/style.css">
 </head>
 
